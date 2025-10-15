@@ -1,18 +1,8 @@
-# VR-Game-Jam-Template
- Starter Project using Unity XR Toolkit created for VR Jam 2023
+# Museum of Network Models
+A project from my Network Programming class (Fall 2024). 
+My team developed a VR project in Unity to depict packet transfer and network architecture. 
+Above all, this was a learning experience for using Unity, .NET, and Blender. 
 
-# Learn More About This Project
-[<img src="https://i.ytimg.com/vi/apnfGuMI0Dc/maxresdefault.jpg" width="50%">](https://youtu.be/apnfGuMI0Dc)
+Used https://github.com/ValemVR/VR-Game-Jam-Template as a basis for development. 
+<img width="1626" height="660" alt="Screenshot 2025-10-15 122646" src="https://github.com/user-attachments/assets/734a0ed7-c974-4b35-8b54-b13daee92536" />
 
-https://youtu.be/apnfGuMI0Dc
-
-# External Ressources
-This project uses a combination of these assets and tutorials :
-
-https://youtu.be/6OT43pvUyfY
-
-https://youtu.be/JCyJ26cIM0Y
-
-https://kenney.nl/assets?q=audio
-
-https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples
